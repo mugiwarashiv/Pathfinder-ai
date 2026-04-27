@@ -109,6 +109,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Thanks to the Next.js, Shadcn UI, Prisma, Clerk, and Gemini AI communities for their excellent tools and resources.
 * Inspired by the need for accessible and effective career development tools.
 
--Shiva
+- SHIVA
 
 
